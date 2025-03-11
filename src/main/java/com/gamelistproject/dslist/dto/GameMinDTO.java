@@ -1,7 +1,6 @@
 package com.gamelistproject.dslist.dto;
 
 import com.gamelistproject.dslist.entities.Game;
-import jakarta.persistence.Column;
 
 public class GameMinDTO {
 
